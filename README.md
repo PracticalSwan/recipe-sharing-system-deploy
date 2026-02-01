@@ -13,7 +13,7 @@ The system uses a **client-side storage approach** with localStorage, making it 
 
 ## 🚀 Quick Start
 
-Simply open `index.html` in your web browser to start using the application. All data is stored locally in your browser's localStorage.
+Simply open `https://practicalswan.github.io/recipe-sharing-system-deploy/` in your web browser to start using the application. All data is stored locally in your browser's localStorage.
 
 ## 🔑 Test Credentials
 
