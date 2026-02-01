@@ -35,7 +35,7 @@ The system uses a **client-side storage approach** with localStorage, making it 
 
 ## 📂 Source Code
 
-For complete documentation, installation instructions, and source code, visit the [GitHub Repository](https://github.com/yourusername/recipe-sharing-system).
+For complete documentation, installation instructions, and source code, visit the [GitHub Repository](https://github.com/PracticalSwan/recipe-sharing-system).
 
 ---
 
